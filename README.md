@@ -57,7 +57,7 @@ _An engaging quiz platform that helps users enhance their knowledge interactivel
 
 ### **📱 [QR Code Generator](https://github.com/your-username/QRGenerator)**  
 _A web app that allows users to generate customized QR codes for URLs or text inputs._  
-:star2: **Technologies Used:** HTML, CSS, JavaScript, Node.js  
+:star2: **Technologies Used:** EJS, CSS, JavaScript, Node.js  
 
 ---
 
