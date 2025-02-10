@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Akshith V!
 
 ## 💻 About Me
-My Complete Description : [[->]](https://byakshith.netlify.app/)
+know more.. : [[->]](https://byakshith.netlify.app/)
 
 I’m a passionate **Full-Stack Developer** and **Problem Solver** from Bangalore, India. Currently studying **Information Science and Engineering**, I enjoy working on web development projects and exploring new technologies. I'm always up for collaborating on projects and learning new things to grow as a developer.
 
 - 🔭 **Currently working on**: [Mindful Haven - Mental Health Platform](#link-to-project) 
 - 🌱 **Learning**: Next.js, Machine Learning,NLP
 - 👯 **Looking for collaboration** on projects involving **Web Development**, and **Mental Health Solutions**.
-- 📫 How to reach me: [Mail-Me](akkianki565@gmail.com)
+- 📫 How to reach me: [Email Me](mailto:akshith@example.com?subject=Hello%20Akshith&body=I%20wanted%20to%20connect%20with%20you%20regarding...)
 
 ---
 
