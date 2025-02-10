@@ -2,9 +2,10 @@
 # 👋 Hi, I'm Akshith V!
 
 ## 💻 About Me
-(https://byakshith.netlify.app/)
 
-I’m a passionate **Full-Stack Developer** and **Problem Solver** from Bangalore, India. Currently studying **Information Science and Engineering**, I enjoy working on web development projects and exploring new technologies. I'm always up for collaborating on projects and learning new things to grow as a developer.
+
+I’m a passionate **Full-Stack Developer** and **Problem Solver** from Bangalore, India. Currently studying **Information Science and Engineering**, I enjoy working on web development projects and exploring new technologies. I'm always up for collaborating on projects and learning new things to grow as a developer.  
+[ more..](https://byakshith.netlify.app/)
 
 - 🔭 **Currently working on**: [Expense management System](#link-to-project) 
 - 🌱 **Learning**: Next.js, Blockchain tech,NLP
@@ -12,7 +13,7 @@ I’m a passionate **Full-Stack Developer** and **Problem Solver** from Bangalor
   
 - 📫 How to reach me: [Email Me](mailto:akkianki565@gmail.com?subject=Hello%20Akshith&body=I%20wanted%20to%20connect%20with%20you%20regarding...) [WhatsApp](https://wa.me/6363718535?text=Hello%20Akshith%2C%20I%20found%20your%20profile%20on%20GitHub!)
 
-# know more.. : [[->]]
+
 ---
 
 ## 🛠️ Technologies & Tools
