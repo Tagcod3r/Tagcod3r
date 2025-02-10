@@ -8,8 +8,7 @@ I’m a passionate **Full-Stack Developer** and **Problem Solver** from Bangalor
 - 🔭 **Currently working on**: [Mindful Haven - Mental Health Platform](#link-to-project) 
 - 🌱 **Learning**: Next.js, Machine Learning,NLP
 - 👯 **Looking for collaboration** on projects involving **Web Development**, and **Mental Health Solutions**.
-- 📫 How to reach me: [Email Me](mailto:akkianki565@gmail.com?subject=Hello%20Akshith&body=I%20wanted%20to%20connect%20with%20you%20regarding...)
-- [Chat with Me on WhatsApp](https://wa.me/6363718535?text=Hello%20Akshith%2C%20I%20found%20your%20profile%20on%20GitHub!)
+- 📫 How to reach me: [Email Me](mailto:akkianki565@gmail.com?subject=Hello%20Akshith&body=I%20wanted%20to%20connect%20with%20you%20regarding...) [WhatsApp](https://wa.me/6363718535?text=Hello%20Akshith%2C%20I%20found%20your%20profile%20on%20GitHub!)
 
 ---
 
