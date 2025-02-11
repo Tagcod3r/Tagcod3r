@@ -3,77 +3,77 @@
 
 ## 💻 About Me
 
+I’m a passionate **Full-Stack Developer** and **Problem Solver** from Bangalore, India. Currently pursuing **Information Science and Engineering**, I enjoy working on web development projects and exploring new technologies. I'm always eager to collaborate on projects and learn new things to grow as a developer.  
+[Learn more about me →](https://byakshith.netlify.app/)
 
-I’m a passionate **Full-Stack Developer** and **Problem Solver** from Bangalore, India. Currently studying **Information Science and Engineering**, I enjoy working on web development projects and exploring new technologies. I'm always up for collaborating on projects and learning new things to grow as a developer.  
-[ more..](https://byakshith.netlify.app/)
-
-- 🔭 **Currently working on**: [Expense management System](#link-to-project) 
-- 🌱 **Learning**: Next.js, Blockchain tech,NLP
-- 👯 **Looking for collaboration** on projects involving **Web Development**, and **Mental Health Solutions**.
-
---
-
-"I'm always looking to collaborate on projects. I want your supporting hands, I have got two!"
-- 📫 How to reach me: [Email Me](mailto:akkianki565@gmail.com?subject=Hello%20Akshith&body=I%20wanted%20to%20connect%20with%20you%20regarding...) [WhatsApp](https://wa.me/6363718535?text=Hello%20Akshith%2C%20I%20found%20your%20profile%20on%20GitHub!)
-
+- 🔭 **Currently working on**: [Expense Management System](#link-to-project)  
+- 🌱 **Learning**: Next.js, Blockchain, and NLP  
+- 👯 **Looking to collaborate** on projects involving **Web Development** and **Mental Health Solutions**.  
+- 📫 **How to reach me**:  
+  - [Email Me](mailto:akkianki565@gmail.com?subject=Hello%20Akshith&body=I%20wanted%20to%20connect%20with%20you%20regarding...)  
+  - [WhatsApp](https://wa.me/6363718535?text=Hello%20Akshith%2C%20I%20found%20your%20profile%20on%20GitHub!)  
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### **Frontend** -  **Backend** - **Tools**
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=black) 
-![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=flat&logo=nextdotjs&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC?style=flat&logo=tailwindcss&logoColor=white)
+### **Frontend**  
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-%23000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+</div>
 
-![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-%23000000?style=flat&logo=express&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=flat&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-%2300A4DB?style=flat&logo=mysql&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5?style=flat&logo=firebase&logoColor=white)
+### **Backend**  
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-%23000000?style=flat&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-%2300A4DB?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5?style=flat&logo=firebase&logoColor=white" alt="Firebase">
+</div>
 
-![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=flat&logo=postman&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%23000000?style=flat&logo=canva&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00?style=flat&logo=adobeillustrator&logoColor=white) 
-![CapCut](https://img.shields.io/badge/CapCut-%23000000?style=flat&logo=capcut&logoColor=white)
+### **Tools**  
+<div align="center">
+  <img src="https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Canva-%23000000?style=flat&logo=canva&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00?style=flat&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator">
+  <img src="https://img.shields.io/badge/CapCut-%23000000?style=flat&logo=capcut&logoColor=white" alt="CapCut">
+</div>
 
-### **Languages**:
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23F7DF1E?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300F2A2?style=flat&logo=postgresql&logoColor=white)
- 
+### **Languages**  
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-%2314354C?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-%2300F2A2?style=flat&logo=postgresql&logoColor=white" alt="SQL">
+</div>
 
 ---
 
 ## 🚀 Featured Projects
+
 Here are some of my recent projects:
 
----
-
-
 ### **🧩 [Map It Right - Interactive Quiz Platform](https://github.com/your-username/MapItRight)**  
-_An engaging quiz platform that helps users enhance their knowledge interactively with quizzes on various topics._  
+An engaging quiz platform that helps users enhance their knowledge interactively with quizzes on various topics.  
 :star2: **Technologies Used:** Node.js, Express.js, PostgreSQL, EJS, CSS  
 
 ---
 
-
 ### **📱 [QR Code Generator](https://github.com/your-username/QRGenerator)**  
-_A web app that allows users to generate customized QR codes for URLs or text inputs._  
+A web app that allows users to generate customized QR codes for URLs or text inputs.  
 :star2: **Technologies Used:** EJS, CSS, JavaScript, Node.js  
 
 ---
 
-
-## 💡 Fun Facts
-- 🎮 I enjoy playing strategy games in my free time.
-- 🎨 Graphic design and video editing are my creative outlets.
-- 💪 I’m into cardio workouts to keep a healthy mind and body.
+## 💡 Fun Facts  
+- 🎨 Graphic design and video editing are my creative outlets.  
+- 💪 I’m into cardio workouts to keep a healthy mind and body.  
 
 ---
