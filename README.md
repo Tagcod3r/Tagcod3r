@@ -60,7 +60,7 @@ I’m a passionate **Full-Stack Developer** and **Problem Solver** from Bangalor
 
 Here are some of my recent projects:
 
-### **🧩 [Map It Right - Interactive Quiz Platform](https://github.com/your-Tagcod3r/MapItRight)**  
+### **🧩 [Map It Right - Interactive Quiz Platform](https://map-it-right.onrender.com/)**  
 An engaging quiz platform that helps users enhance their knowledge interactively with quizzes on various topics.  
 :star2: **Technologies Used:** Node.js, Express.js, PostgreSQL, EJS, CSS  
 
