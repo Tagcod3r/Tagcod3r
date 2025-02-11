@@ -1,4 +1,4 @@
-#![Image](https://github.com/user-attachments/assets/13ed3576-da2c-4c16-9790-17b4a19a7600)
+![Image](https://github.com/user-attachments/assets/13ed3576-da2c-4c16-9790-17b4a19a7600)
 # 👋 Hi, I'm Akshith V!
 
 ## 💻 About Me
@@ -10,7 +10,10 @@ I’m a passionate **Full-Stack Developer** and **Problem Solver** from Bangalor
 - 🔭 **Currently working on**: [Expense management System](#link-to-project) 
 - 🌱 **Learning**: Next.js, Blockchain tech,NLP
 - 👯 **Looking for collaboration** on projects involving **Web Development**, and **Mental Health Solutions**.
-  
+
+--
+
+"I'm always looking to collaborate on projects. I want your supporting hands, I have got two!"
 - 📫 How to reach me: [Email Me](mailto:akkianki565@gmail.com?subject=Hello%20Akshith&body=I%20wanted%20to%20connect%20with%20you%20regarding...) [WhatsApp](https://wa.me/6363718535?text=Hello%20Akshith%2C%20I%20found%20your%20profile%20on%20GitHub!)
 
 
