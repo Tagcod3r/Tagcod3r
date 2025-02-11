@@ -60,13 +60,13 @@ I’m a passionate **Full-Stack Developer** and **Problem Solver** from Bangalor
 
 Here are some of my recent projects:
 
-### **🧩 [Map It Right - Interactive Quiz Platform](https://github.com/your-username/MapItRight)**  
+### **🧩 [Map It Right - Interactive Quiz Platform](https://github.com/your-Tagcod3r/MapItRight)**  
 An engaging quiz platform that helps users enhance their knowledge interactively with quizzes on various topics.  
 :star2: **Technologies Used:** Node.js, Express.js, PostgreSQL, EJS, CSS  
 
 ---
 
-### **📱 [QR Code Generator](https://github.com/your-username/QRGenerator)**  
+### **📱 [QR Code Generator](https://github.com/your-Tagcod3r/QRGenerator)**  
 A web app that allows users to generate customized QR codes for URLs or text inputs.  
 :star2: **Technologies Used:** EJS, CSS, JavaScript, Node.js  
 
