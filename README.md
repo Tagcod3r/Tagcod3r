@@ -60,17 +60,21 @@ I’m a passionate **Full-Stack Developer** and **Problem Solver** from Bangalor
 
 Here are some of my recent projects:
 
-### **🧩 [Map It Right - Interactive Quiz Platform](https://map-it-right.onrender.com/)**  
+### **💰 [Expense Tracker](https://your-expense-tracker.onrender.com/)**
+A comprehensive web application for managing finances. Users can track expenses, manage multiple accounts, and generate detailed financial reports with ease.  
+:star2: **Technologies Used:** Node.js, Express, Supabase, EJS, Bootstrap, Anime.js, Lottie, bcryptjs  
+
+---
+
+### **🧩 [Map It Right - Interactive Quiz Platform](https://map-it-right.onrender.com/)**
 An engaging quiz platform that helps users enhance their knowledge interactively with quizzes on various topics.  
 :star2: **Technologies Used:** Node.js, Express.js, PostgreSQL, EJS, CSS  
 
 ---
 
-### **📱 [QR Code Generator](https://qr-image.onrender.com)**  
+### **📱 [QR Code Generator](https://qr-image.onrender.com)**
 A web app that allows users to generate customized QR codes for URLs or text inputs.  
-:star2: **Technologies Used:** EJS, CSS, JavaScript, Node.js  
-
----
+:star2: **Technologies Used:** EJS, CSS, JavaScript, Node.js
 
 ## 💡 Fun Facts  
 - 🎨 Graphic design and video editing are my creative outlets.  
