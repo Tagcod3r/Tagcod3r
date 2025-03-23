@@ -6,7 +6,7 @@
 I’m a passionate **Full-Stack Developer** and **Problem Solver** from Bangalore, India. Currently pursuing **Information Science and Engineering**, I enjoy working on web development projects and exploring new technologies. I'm always eager to collaborate on projects and learn new things to grow as a developer.  
 [Learn more about me →](https://byakshith.netlify.app/)
 
-- 🔭 **Currently working on**: [Expense Management System](#link-to-project)  
+- 🔭 **Currently working on**: [Expense Management System](https://github.com/Tagcod3r/expense_tracker1)  
 - 🌱 **Learning**: Next.js, Blockchain, and NLP  
 - 👯 **Looking to collaborate** on projects involving **Web Development** and **Mental Health Solutions**.  
 - 📫 **How to reach me**:  
