@@ -23,7 +23,7 @@ I’m a passionate **Full-Stack Developer** and **Problem Solver** from Bangalor
   <img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-%23000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
+
   <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
 </div>
 
