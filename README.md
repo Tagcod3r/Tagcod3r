@@ -7,7 +7,7 @@ I’m a passionate **Full-Stack Developer** and **Problem Solver** from Bangalor
 [Learn more about me →](https://byakshith.netlify.app/)
 
 - 🔭 **Currently working on**: [Mindful Connect]()  
-- 🌱 **Learning**: Next.js, Blockchain, and NLP  
+- 🌱 **Learning**: NLP, Ml..
 - 👯 **Looking to collaborate** on projects involving **Web Development** and **Mental Health Solutions**.  
 - 📫 **How to reach me**:  
   - [Email Me](mailto:akkianki565@gmail.com?subject=Hello%20Akshith&body=I%20wanted%20to%20connect%20with%20you%20regarding...)  
