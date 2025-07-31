@@ -60,6 +60,12 @@ I’m a passionate **Full-Stack Developer** and **Problem Solver** from Bangalor
 
 Here are some of my recent projects:
 
+### 🧠 [MindfulConnect](https://mindfull-connect.onrender.com/)
+A privacy-first mental wellness web application designed to offer emotional support, AI-powered conversations, mood tracking, and access to helpful self-care tools and therapist contacts. Built for simplicity and accessibility, MindfulConnect helps users manage their mental well-being through a lightweight yet powerful experience.
+
+:star2: **Technologies Used:** Node.js, Express.js, MongoDB (Mongoose), EJS, Bootstrap, Gemini API, bcryptjs, express-session, dotenv
+
+
 ### **💰 [Expense Tracker](https://your-expense-tracker.onrender.com/)**
 A comprehensive web application for managing finances. Users can track expenses, manage multiple accounts, and generate detailed financial reports with ease.  
 :star2: **Technologies Used:** Node.js, Express, Supabase, EJS, Bootstrap, Anime.js, Lottie, bcryptjs  
