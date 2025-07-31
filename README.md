@@ -65,6 +65,7 @@ A privacy-first mental wellness web application designed to offer emotional supp
 
 :star2: **Technologies Used:** Node.js, Express.js, MongoDB (Mongoose), EJS, Bootstrap, Gemini API, bcryptjs, express-session, dotenv
 
+---
 
 ### **💰 [Expense Tracker](https://your-expense-tracker.onrender.com/)**
 A comprehensive web application for managing finances. Users can track expenses, manage multiple accounts, and generate detailed financial reports with ease.  
