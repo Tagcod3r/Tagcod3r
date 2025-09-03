@@ -6,7 +6,7 @@
 I’m a passionate **Full-Stack Developer** and **Problem Solver** from Bangalore, India. Currently pursuing **Information Science and Engineering**, I enjoy working on web development projects and exploring new technologies. I'm always eager to collaborate on projects and learn new things to grow as a developer.  
 [Learn more about me →](https://byakshith.netlify.app/)
 
-- 🔭 **Currently working on**: [Sign Language Detection System]()  
+- 🔭 **Currently working on**: [Sign Language Detection System](https://github.com/Tagcod3r/ASL-signLanguage)  
 - 🌱 **Learning**: -
 - 👯 **Looking to collaborate** on projects involving **Web Development** and **Mental Health Solutions**.  
 - 📫 **How to reach me**:  
